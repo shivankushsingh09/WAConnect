@@ -1,4 +1,4 @@
-# Whatsapp Link Generator
+# WAConnect – A WhatsApp Link Generator
 
 Generate a WhatsApp link from just a phone number with this simple web tool. This tool allows users to quickly create a `https://wa.me` link that can be shared or bookmarked for initiating a WhatsApp chat directly.
 
@@ -11,7 +11,7 @@ You can try it out locally by opening `index.html` in your browser.
 ## 📁 Project Structure
 
 ```
-Whatsapp-Link-Generator/
+WAConnect/
 ├── index.html         # Main HTML structure and UI
 ├── style.css          # Basic styles for layout
 ├── script.js          # Javascript for generating the WhatsApp link
@@ -64,7 +64,7 @@ You can clone this repo locally:
 
 ```bash
 git clone https://github.com/your-username/Whatsapp-Link-Generator.git
-cd Whatsapp-Link-Generator
+cd WAConnect
 
 ```
 
@@ -106,11 +106,11 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📬 Contact
 
-For any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/your-username/Whatsapp-Link-Generator/issues).
+For any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/your-username/WAConnect/issues).
 
 ---
 
-Enjoy using the **Whatsapp Link Generator**!
+Enjoy using the **WAConnect**!
 
 ```
 
